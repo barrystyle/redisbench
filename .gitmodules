@@ -1,0 +1,3 @@
+[submodule "redis-cpp"]
+	path = redis-cpp
+	url = https://github.com/tdv/redis-cpp
